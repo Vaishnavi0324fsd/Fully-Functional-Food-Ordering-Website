@@ -30,7 +30,7 @@ Welcome to the **Fully Functional Food Ordering Website** repository! This proje
 - **Bootstrap**: For responsive design.
   
 - **React.js**: Component-based front-end development.
-- 
+  
 
 ## 📂 Project Structure
 
