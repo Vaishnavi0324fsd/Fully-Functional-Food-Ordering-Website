@@ -1,4 +1,4 @@
-##Fully Functional Food Ordering Website
+# Fully Functional Food Ordering Website
 
 
 Welcome to the **Fully Functional Food Ordering Website** repository! This project is a front-end implementation of an interactive food ordering platform, built with modern web technologies.
